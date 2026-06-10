@@ -53,7 +53,7 @@ export function StartScreen({
             <span className="start-hero__trophy" aria-hidden="true">
               🏆
             </span>
-            World Cup Gauntlet
+            22-0 · The Gauntlet
           </span>
           <span className="start-hero__fan">Unofficial · Fan-made · Free</span>
         </div>

@@ -1,8 +1,13 @@
-# World Cup Gauntlet
+# 22-0 · The Gauntlet
 
 A static, browser-based football draft game inspired by [38-0-0](https://38-0-0.com/).
 Draft a nation's all-time XI from real World Cup squads, then face every World
 Cup winner in history — 22 knockout ties, zero losses allowed.
+
+> **Unofficial, fan-made, free-to-play.** Not affiliated with, endorsed by, or
+> sponsored by FIFA, any football federation, or any team or player featured.
+> "World Cup" and related marks belong to their respective owners. Player names
+> are used for historical reference only and all ratings are subjective.
 
 Built with **Vite + React + TypeScript**. No backend, no database — it runs
 locally and deploys as a static site to GitHub Pages.

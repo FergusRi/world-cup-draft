@@ -48,7 +48,7 @@ export function GauntletShareCard({
         <span className="share-card__trophy" aria-hidden="true">
           🏆
         </span>
-        <span className="share-card__mode">World Cup Gauntlet</span>
+        <span className="share-card__mode">22-0 · The Gauntlet</span>
       </div>
 
       <div className="share-card__nation-row">
